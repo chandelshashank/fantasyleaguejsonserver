@@ -1,27 +1,134 @@
- { player: 'Rohit Sharma', team: 'MI', price: 3000000 },
-    { player: 'Suresh Raina', team: 'CSK', price: 212000 },
-    { player: 'Glen Maxwell', team: 'KXIP', price: 100000 },
-    { player: 'Virat Kohli', team: 'RCB', price: 35000 },
-    { player: 'Ajinkya Rahane', team: 'RR', price: 35000 },
-    { player: 'David Warner', team: 'SRH', price: 35000 },
-    { player: 'Shreyas Iyer', team: 'DC', price: 35000 },
-    { player: 'Dhinesh Karthik', team: 'KKR', price: 35000 },
-    { player: 'Dhinesh Karthik', team: 'KKR', price: 35000 },
-    { player: 'Dhinesh Karthik', team: 'KKR', price: 35000 },
-    { player: 'Dhinesh Karthik', team: 'KKR', price: 35000 },
-    { player: 'Dhinesh Karthik', team: 'KKR', price: 35000 },
-    { player: 'Dhinesh Karthik', team: 'KKR', price: 35000 },
-    { player: 'Dhinesh Karthik', team: 'KKR', price: 35000 },
-    { player: 'Dhinesh Karthik', team: 'KKR', price: 35000 },
-    { player: 'Dhinesh Karthik', team: 'KKR', price: 35000 },
-    { player: 'Dhinesh Karthik', team: 'KKR', price: 35000 },
-    { player: 'Dhinesh Karthik', team: 'KKR', price: 35000 },
-    { player: 'Dhinesh Karthik', team: 'KKR', price: 35000 },
-    { player: 'Dhinesh Karthik', team: 'KKR', price: 35000 },
-    { player: 'Dhinesh Karthik', team: 'KKR', price: 35000 },
-    { player: 'Dhinesh Karthik', team: 'KKR', price: 35000 },
-    { player: 'Dhinesh Karthik', team: 'KKR', price: 35000 },
-    { player: 'Dhinesh Karthik', team: 'KKR', price: 35000 },
-    { player: 'Dhinesh Karthik', team: 'KKR', price: 35000 },
-    { player: 'Dhinesh Karthik', team: 'KKR', price: 35000 }
-
+{
+   "Players": [
+      {
+         "player": "Rohit Sharma",
+         "team": "MI",
+         "price": 3000000
+      },
+      {
+         "player": "Suresh Raina",
+         "team": "CSK",
+         "price": 212000
+      },
+      {
+         "player": "Glen Maxwell",
+         "team": "KXIP",
+         "price": 100000
+      },
+      {
+         "player": "Virat Kohli",
+         "team": "RCB",
+         "price": 35000
+      },
+      {
+         "player": "Ajinkya Rahane",
+         "team": "RR",
+         "price": 35000
+      },
+      {
+         "player": "David Warner",
+         "team": "SRH",
+         "price": 35000
+      },
+      {
+         "player": "Shreyas Iyer",
+         "team": "DC",
+         "price": 35000
+      },
+      {
+         "player": "Dhinesh Karthik",
+         "team": "KKR",
+         "price": 35000
+      },
+      {
+         "player": "Dhinesh Karthik",
+         "team": "KKR",
+         "price": 35000
+      },
+      {
+         "player": "Dhinesh Karthik",
+         "team": "KKR",
+         "price": 35000
+      },
+      {
+         "player": "Dhinesh Karthik",
+         "team": "KKR",
+         "price": 35000
+      },
+      {
+         "player": "Dhinesh Karthik",
+         "team": "KKR",
+         "price": 35000
+      },
+      {
+         "player": "Dhinesh Karthik",
+         "team": "KKR",
+         "price": 35000
+      },
+      {
+         "player": "Dhinesh Karthik",
+         "team": "KKR",
+         "price": 35000
+      },
+      {
+         "player": "Dhinesh Karthik",
+         "team": "KKR",
+         "price": 35000
+      },
+      {
+         "player": "Dhinesh Karthik",
+         "team": "KKR",
+         "price": 35000
+      },
+      {
+         "player": "Dhinesh Karthik",
+         "team": "KKR",
+         "price": 35000
+      },
+      {
+         "player": "Dhinesh Karthik",
+         "team": "KKR",
+         "price": 35000
+      },
+      {
+         "player": "Dhinesh Karthik",
+         "team": "KKR",
+         "price": 35000
+      },
+      {
+         "player": "Dhinesh Karthik",
+         "team": "KKR",
+         "price": 35000
+      },
+      {
+         "player": "Dhinesh Karthik",
+         "team": "KKR",
+         "price": 35000
+      },
+      {
+         "player": "Dhinesh Karthik",
+         "team": "KKR",
+         "price": 35000
+      },
+      {
+         "player": "Dhinesh Karthik",
+         "team": "KKR",
+         "price": 35000
+      },
+      {
+         "player": "Dhinesh Karthik",
+         "team": "KKR",
+         "price": 35000
+      },
+      {
+         "player": "Dhinesh Karthik",
+         "team": "KKR",
+         "price": 35000
+      },
+      {
+         "player": "Dhinesh Karthik",
+         "team": "KKR",
+         "price": 35000
+      }
+   ]
+}
